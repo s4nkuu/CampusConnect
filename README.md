@@ -1,20 +1,36 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# CampusConnect
 
-# Run and deploy your AI Studio app
+CampusConnect is a demo version of a website project designed to provide a platform for students to connect and explore campus-related opportunities.
 
-This contains everything you need to run your app locally.
+Live Demo: [Visit CampusConnect](https://campusconnect-squv.onrender.com)
 
-View your app in AI Studio: https://ai.studio/apps/bc3ca2c9-7a3e-4c1d-bc60-906a5ebd0ca1
+# About the Project
 
-## Run Locally
+CampusConnect is a centralized campus management platform designed to make communication and everyday campus activities easier. It provides separate student and admin interfaces with features such as student dashboards, complaint management, Lost and Found, campus notices, and study material sharing. The platform aims to improve accessibility, organization, and communication within educational institutions.
 
-**Prerequisites:**  Node.js
+# ✨ Features
 
+- Clean and user-friendly interface
+- Responsive website design
+- Campus-focused platform
+- Interactive user experience
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+# 🛠️ Technologies Used
+
+- Development tool: Google AI Studio <br> 
+- Frontend: React, TypeScript, Tailwind CSS <br>
+- Backend: Node.js, Express.js <br>
+- Database: SQLite <br>
+- Deployment: Render <br>
+
+# Live Preview
+
+Check out the deployed demo:
+
+👉 https://campusconnect-squv.onrender.com
+
+Note: This is a demo deployment. Some features may be subject to change as the project evolves.
+
+# Project Status
+
+Demo Version – Under Development
