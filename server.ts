@@ -29,7 +29,7 @@ async function startServer() {
   } else {
     const distDir = path.resolve(process.cwd(), 'dist');
     app.use(express.static(distDir));
-    app.get('/{*splat}', (_req, res) => {
+    app.get('*', (_req, res) => {
       const indexPath = path.join(distDir, 'index.html');
       if (fs.existsSync(indexPath)) {
         res.sendFile(indexPath);
