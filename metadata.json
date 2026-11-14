@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect",
+  "description": "One Campus. One Platform. Every Solution. A unified college management and student support platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
